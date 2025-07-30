@@ -1,4 +1,4 @@
-# project-showcase
+# Gallery
 Belows are my public works
 
 ## Rubber Trading website
