@@ -16,7 +16,9 @@ BE infrastructure: Nodejs, Kafka, MongoDb, Redis
 <img width="800" height="727" alt="image" src="https://github.com/user-attachments/assets/a66e4bef-ad17-441a-b687-fceb2e35a72e" />  <img width="1359" height="1228" alt="image" src="https://github.com/user-attachments/assets/1fa9e00a-2cb7-478e-9e0e-d93446f50988" />
 
 ## [MXV public site](https://mxv.com.vn/) 
+.Net Core MVC, Microsoft SQL Server
 
 ## Employee rating system
+ASP.NET, Sharepoint as database
 <img width="1852" height="953" alt="image" src="https://github.com/user-attachments/assets/4f785079-1a1a-4f7b-b855-eb556e8f272b" />
 
